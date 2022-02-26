@@ -1,5 +1,5 @@
-# Elm Accessibility Examples
-Accessibility articles, modules and examples in Elm
+# Elm Accessibility
+Accessibility articles, packages and examples
 
 ## Widgets & Decoders
 -  [Elm DOM node decoder to detect click outside](https://dev.to/margaretkrutikova/elm-dom-node-decoder-to-detect-click-outside-3ioh)
